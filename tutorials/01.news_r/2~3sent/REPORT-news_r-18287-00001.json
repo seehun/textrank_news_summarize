@@ -1,0 +1,23 @@
+{
+	"Meta(Acqusition)": {
+		"doc_id": "REPORT-news_r-18287",
+		"doc_category": "REPORT",
+		"doc_type": "news_r",
+		"doc_name": "만성통증에 효과적인 ‘SNPE 바른자세 척추운동’ 美스포츠의학회서 소개",
+		"author": "김지영",
+		"publisher": "중앙일보",
+		"publisher_year": "2020",
+		"doc_origin": "중앙일보"
+	},
+	"Meta(Refine)": {
+		"passage_id": "REPORT-news_r-18287-00001",
+		"passage": "한국바른자세연구원과 국민대학교는 스포츠의학 분야에서 최고 권위를 자랑하는 학회인 미국스포츠의학회(ACSM)에서 SNPE의 과학적 효과검증 연구결과 2편을 발표했다.\n  ACSM(American College of Sports Medicine, 미국스포츠의학회)은 전세계적으로 관련 분야 학자들이 높은 관심을 갖는 학회로 지난 5월 26일부터 30일까지 미국 샌프란시스코에서 제 67회 ACSM 연례회의가 개최될 예정이었으나 COVID-19로 인해 취소됨에 따라 ‘ACSM's 2020 Virtual Experience’가 온라인으로 개최됐다.\n  이번 ACSM's 2020 Virtual Experience에서 국민대학교 스포츠건강재활학과 이대택 교수는 'Effects Of Self Natural Posture Exercise On Pain Perception, Functional Movement, And Physical Fitness In Women With Chronic Pain' 을 주제로 12주간의 SNPE 프로그램 적용이 만성통증여성의 전신 통증인식의 감소와 움직임 기능, 근력, 유연성 향상에 효과적이라는 연구 결과를 발표했다.\n  또한 ㈜한국바른자세연구원 기업부설연구소의 이희진 연구소장은 'Effectiveness Of SNPE On Disability, Range Of Motion, Muscular Strength, And Pelvic Pain In Women With Chronic Low Back Pain'을 주제로 12주간의 SNPE 프로그램의 적용이 만성요통여성의 요통장애지수, 관절가동범위, 근력, 골반 통증개선에 효과적이라는 연구 결과를 발표했다.\n  두 편의 연구 결과를 통해 SNPE 바른자세 척추운동이 성인 여성의 근골격계 통증 및 기능 개선에 효과적인 운동프로그램으로 제시될 수 있음을 시사했다.\n  책임 저자인 이 교수는 “최근 근골격계와 관련한 통증 및 기능의 저하로 인한 불편함을 호소하는 인구는 급격하게 증가하고 있다.\n  이는 의료비의 증가로 이어지며 개인의 문제를 넘어 사회의 문제로 확대되고 있어 이를 해결하기 위한 효과적인 방안에 대한 모색이 계속되고 있다.\n ”면서 “이번 연구 결과를 통해 SNPE 바른자세 척추운동이 근골격계 통증 및 기능 개선에 효과적인 운동프로그램으로써 큰 역할을 할 수 있을 것으로 기대한다.\n ”고 소감을 밝혔다.\n  SNPE(Self Natural Posture Exercise)는 스스로 인간 본연의 자세를 회복하는 운동으로 한국에서 최초로 창안돼 보급됐다.\n ",
+		"passage_Cnt": 1259
+	},
+	"Annotation": {
+		"summary1": "한국바른자세연구원과 국민대학교는 한국에서 창안된 SNPE 바른자세 척추운동이 성인 여성의 근골격계 통증 및 기능 개선에 효과적이라는 두 편의 연구 결과를 발표했다.",
+		"summary2": "한국바른자세연구원과 국민대학교는 스포츠의학 분야에서 최고 권위를 자랑하는 학회인 미국스포츠의학회(ACSM)에서 SNPE의 과학적 효과검증 연구결과 2편을 발표했다. 두 편의 연구 결과를 통해 SNPE 바른자세 척추운동이 성인 여성의 근골격계 통증 및 기능 개선에 효과적인 운동프로그램으로 제시될 수 있음을 시사했다. SNPE(Self Natural Posture Exercise)는 스스로 인간 본연의 자세를 회복하는 운동으로 한국에서 최초로 창안돼 보급됐다.",
+		"summary3": null,
+		"summary_3_cnt": null
+	}
+}

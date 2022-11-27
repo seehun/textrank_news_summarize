@@ -1,0 +1,23 @@
+{
+	"Meta(Acqusition)": {
+		"doc_id": "REPORT-news_r-04787",
+		"doc_category": "REPORT",
+		"doc_type": "news_r",
+		"doc_name": "아모레퍼시픽 기술연구원, 녹차유산균 연구센터 개소",
+		"author": "안희",
+		"publisher": "중앙일보",
+		"publisher_year": "2020",
+		"doc_origin": "중앙일보"
+	},
+	"Meta(Refine)": {
+		"passage_id": "REPORT-news_r-04787-00001",
+		"passage": "아모레퍼시픽 기술연구원이 ‘녹차유산균 연구센터(Green Tea Probiotics Research Center)’를 개소했다.\n  녹차유산균 연구센터는 아모레퍼시픽이 제주 유기농 차밭에서 발견한 새로운 유산균 소재의 연구를 강화하고, 미생물을 비롯한 여러 분야에서 더욱 혁신적인 제품 개발을 이어가기 위해 신설했다.\n   아모레퍼시픽 기술연구원은 1980년대부터 녹차 소재에 관한 연구를 시작했으며, 2000년대 들어서는 피부 효능을 지닌 신품종 녹차 연구까지 그 범위를 확대했다.\n  또한, 1997년부터는 미생물을 포함한 피부 및 두피, 모발의 특성에 관한 연구도 이어온 바 있다.\n  이와 같은 다양한 연구를 통해 2010년에는 제주 유기농 녹차 중에서 풍미가 깊은 발효 녹차 잎에 발효를 돕는 유익한 식물성 녹차 유산균주(락토바실러스 플란타룸(Lactobacillus plantarum) APsulloc)가 있다는 사실을 밝혀냈으며, 특허도 획득했다.\n    특히 해당 소재의 유전체를 분석한 결과 기존 유산균주보다 장내 정착력이 뛰어나고 효과가 오래 지속되며, 항균력이 뛰어나 유해 세균 억제 효과가 우수하고, 항성제 내성 안정성을 지녔다는 사실을 밝혀낼 수 있었다.\n  이와 같은 장점을 바탕으로 장내 미생물 분야 세계적 석학인 빌헬름 홀잡펠 교수(Prof.\n  Dr.\n  Wilhelm Heinrich Holzapfel)와 공동 연구를 진행했으며, 작년 11월에는 관련 내용을 SCI급 저널인 “프로바이오틱스 및 항균성 단백질(Probiotics and Antimicrobial Proteins)\"에도 게재한 바 있다.\n  (논문명: Safety Evaluation and Whole-Genome Annotation of Lactobacillus plantarum Strains from Different Sources with Special Focus on Isolates from Green Tea) 관련 연구를 통해 아모레퍼시픽이 독자적으로 찾아낸 녹차유산균주가 위장의 염증인자들을 감소시킨다는 사실도 추가로 확인할 수 있었다.\n    아모레퍼시픽 기술연구원은 이번에 신설한 녹차유산균 연구센터를 통해 해당 소재의 효능을 추가로 검증하고, 건강식품과 화장품 등 여러 분야에서 녹차유산균을 사용한 혁신 제품 개발을 지속해서 이어나갈 예정이다.\n  더불어 인체에 서식하는 미생물과 그 유전정보를 일컫는 마이크로바이옴(microbiome) 등 미생물로도 연구 분야를 확장해나갈 계획이다.\n ",
+		"passage_Cnt": 1234
+	},
+	"Annotation": {
+		"summary1": "미생물을 비롯한 여러 분야에서 혁신적인 제품 개발을 이어가기 위해 아모레퍼시픽 기술 연구원이 녹차유산균 연구센터를 개소했다.",
+		"summary2": null,
+		"summary3": "아모레퍼시픽 기술연구원이 ‘녹차유산균 연구센터(Green Tea Probiotics Research Center)’를 개소했다. 녹차유산균 연구센터는 아모레퍼시픽이 제주 유기농 차밭에서 발견한 새로운 유산균 소재의 연구를 강화하고, 미생물을 비롯한 여러 분야에서 더욱 혁신적인 제품 개발을 이어가기 위해 신설했다.",
+		"summary_3_cnt": 176
+	}
+}
